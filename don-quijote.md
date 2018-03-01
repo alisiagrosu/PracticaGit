@@ -1,5 +1,4 @@
 **Don Quijote de la Mancha**
-**PRACTICA GIT "título"**
 
 En un lugar de los Repos,
 de cuyo commit no quiero acordarme,
